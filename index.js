@@ -230,6 +230,7 @@ function restartQuiz() {
   });
 }
 
+
 //runs the functions
 function makeQuiz() {
   startQuiz();
